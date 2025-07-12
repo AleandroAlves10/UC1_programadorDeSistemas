@@ -1,0 +1,75 @@
+/* 
+Paleta de cores:
+Azul Principal:#2196F3
+Azul Escuro: #1976D2
+Azul Claro: #BBDE
+Rosa:
+*/
+h1{
+    color: rgb(243, 235, 235);
+    cursor: default;
+    text-align: center;
+   
+    
+    
+}
+
+body{
+    margin: 0;
+}
+
+.partecima{
+    background-color: rgb(88, 161, 245);
+    padding: 50px;
+     /* margin: 50px; */
+}
+
+
+
+.pacotao{
+    color: rgb(180, 240, 240);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.pacotao2{
+    color: azure;
+    font-size: 15;
+    text-align: right;
+    text-decoration: underline
+    
+    
+}
+
+.container{
+    margin-left: 70px;
+}
+
+.container2{
+    margin-left: 70px;
+}
+
+
+.botaoprincipal{
+    background-color: rgb(238, 82, 82);
+    color: aliceblue;
+    border: none; /*Remove a borda do botão*/
+    font-size: 23px;
+    padding: 20px; /*aumenta espaço no botao por dentro*/
+    border-radius: 10px;/*Arredondar as bordas*/
+    cursor: pointer;
+    margin-top: 50px;/*aumenta o espaço por fora do item*/
+    margin-right: 50px;
+
+}
+
+.botaoinvertido{
+    background: transparent;
+    border: 3.5px solid rgb(235, 80, 80);
+    padding: 15px;
+    border-radius: 7.5px;
+    color: rgb(201, 14, 14);
+    
+
+}
+
